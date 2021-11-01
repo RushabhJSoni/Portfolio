@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Ursula Lopez. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description": "👋 I'm Rushabh Soni. I have been an airline captain for over 11 years now and associated with the aerospace industry for over 15 years.Always believed computers are the future. As civilisation progresses towards a more automated world, computers and software are going to be at the forefront. The possibilities are literally endless with what can be done with software, added to the positive impact that can be made on everyday life for one and all.Having spent over a decade and a half in a high skill, high risk industry where timely decision making is of utmost importance I hope to bring all of these valuable past experiences along with my thirst for knowledge and the need for constant innovation/self improvement into my new career.   I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to  the repository to make it more recognizable for other users. Thank you ",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,107 +11,66 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Savor",
+        "startDate": "2021",
+        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles financial savings  processes which lets you know how much you need to save per week to acheive your goals.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/savor/bpfinance.jpg"
         ],
-        "url": "",
+        "url": "https://black-panther-finance.github.io/webApp/",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-html5-plain",
+            "name": "Html"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
-        "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "React"
+            "class": "devicon-css3-plain",
+            "name": "Css"
           },
           {
             "class": "devicon-javascript-plain",
-            "name": "JavaScript"
+            "name": "JS"
           }
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Hyper-Carz",
+        "startDate": "2021",
+        "description": "Personal project to help the ultra wealthy buy koenigsegg hyper cars!",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/hyper/hyper carz.jpg"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/RushabhJSoni/hyper-carz",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-html5-plain",
+            "name": "Html"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-css3-plain",
+            "name": "Css"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-javascript-plain",
+            "name": "JS"
           }
         ]
       }
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
+        "company": "Self employed",
         "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "years": "01.2021 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "JavaScript 6/8/21"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
           "JavaScript",
           "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
-        ]
-      },
-      {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
-        "mainTech": [
-          "Angular 7/8"
-        ],
-        "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "HTML",
+          "CSS",
+          "Node Js"
         ]
       }
     ]
